@@ -1,0 +1,82 @@
+/*..................................HEADER*/
+
+#barre
+{
+	display: flex;
+	width: 180px;
+	margin-top: 12px;
+	margin-left: auto;
+	justify-content: space-between;
+	align-items: center;
+	font-family: arial;
+	font-size: 12px;
+}
+
+/*..................................BODY*/
+
+#logo
+{
+	display: flex;
+	justify-content: center;
+}
+
+img
+{
+	width: 500x;
+	height: 400px;
+}
+
+#bouton
+{
+	display: flex;
+	justify-content: center;
+}
+
+#barrederecherche
+{
+	display: flex;
+	justify-content: center;
+}
+
+
+
+
+/*..................................FOOTER*/
+
+
+#foot1
+
+{
+	display: flex;
+
+	background-color: #f2f2f2;
+	border: 1px solid #d8d8d8;
+	border-bottom: 0;
+	padding : 12px;
+	bottom: auto;
+	height: 25px;
+	width: 100%;
+	font-family: arial;
+	font-size: 14px;
+
+}
+
+#foot2
+{
+	display: flex;
+	flex-wrap: wrap;
+
+	background-color: #f2f2f2;
+	border: 1px solid #d8d8d8;
+	padding : 12px;
+	bottom: 0; 
+	height: 25px;
+	width: 100%;
+	font-family: arial;
+	font-size: 14px;
+	justify-content: space-between;
+
+
+}
+
+
